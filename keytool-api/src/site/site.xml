@@ -27,6 +27,7 @@ under the License.
       <item name="keytool-api-1.5" href="../keytool-api-1.5"/>
       <item name="keytool-api-1.6" href="../keytool-api-1.6"/>
       <item name="keytool-api-1.7" href="../keytool-api-1.7"/>
+      <item name="keytool-api-1.8" href="../keytool-api-1.8"/>
     </menu>
 
     <menu ref="reports"/>
